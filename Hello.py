@@ -1,3 +1,8 @@
+##############################################
+# This marks the the start of my coding journey, 2023
+# Maurice Nyangede
+# Dedication
+################################### 
 # Clear the terminal screen
 import os
 os.system('clear')
